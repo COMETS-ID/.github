@@ -1,1 +1,2 @@
 #COMETS.ID
+<p align="justify"> This capstone project was developed because there is an urgent need to address the growing mental health issue, especially among Indonesian university students and students in general. The severity of the situation is shown by the concerning increase in suicide cases, as shown by data from the National Information Center of Crime. With 971 cases documented between January and October of 2023, it is obvious that taking preventative action is necessary to stop this alarming trend. </p>
