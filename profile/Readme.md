@@ -1,6 +1,6 @@
-#COMETS.ID for Controlling Mental Health’s Students
+# COMETS.ID for Controlling Mental Health’s Students
 
-#Themes
+# Themes
 <p align="justify">Human Healthcare and Living Wellbeings</p>
 
 <p align="justify">What are the objectives and challenges we aim to address, and have there been any prior initiatives in this regard? Each year, a staggering 703,000 individuals succumb to suicide, while countless others grapple with suicidal thoughts. This tragic reality sends shockwaves through families, communities, and nations, leaving enduring scars on those left behind. Suicide transcends age, emerging as the fourth leading cause of death among 15–29-year-olds worldwide in 2019. This global crisis extends far beyond affluent nations, with over 77% of suicides occurring in low- and middle-income countries in 2019 [WHO 2023]. Based on data from the Pusat Informasi Kriminal Nasional Kepolisian RI, in the last 11 years (2012-2023) there were 2,112 suicides in Indonesia. As many as 985 cases or 46.63% of them were committed by teenagers. </p>
