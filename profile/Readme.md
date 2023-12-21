@@ -1,6 +1,6 @@
 # COMETS.ID for Controlling Mental Health’s Students
 
-<img src="LOGO 2.png">
+<img src="medit.gif">
 
 # Themes
 <p align="justify">Human Healthcare and Living Wellbeings</p>
@@ -10,3 +10,14 @@
 <p align="justify">Within the complex tapestry of causes contributing to suicide, mental health emerges as a critical factor, and its prominence is increasingly evident in Indonesia. Alarming statistics from the National Information Centre of Crime at the Police Department indicate a surge in suicide cases, reaching 971 from January to October 2023, predominantly affecting students and university students. Based on a survey from the Indonesia National Adolescent Mental Health Survey (I-NAMHS) in 2022, explain that 5.5% of teenagers aged 10-17 years were diagnosed with mental health disorders. The root of this crisis lies in various factors, including the fragility of mental resilience. Research from the Indonesia National Adolescent Mental Health reveals that one in three teenagers aged 10-17 exhibits signs of mental health issues, exacerbated by academic and social challenges during this critical developmental phase. </p>
 
 <p align="justify">This capstone project was developed because there is an urgent need to address the growing mental health issue, especially among Indonesian university students and students in general. The severity of the situation is shown by the concerning increase in suicide cases, as shown by data from the National Information Center of Crime. With 971 cases documented between January and October of 2023, it is obvious that taking preventative action is necessary to stop this alarming trend. </p>
+
+#
+
+| Bangkit ID | Name | Learning Path | University |LinkedIn |
+| ---      | ---       | ---       | ---       | ---       |
+| M296BSX1279  | Nabila Athifah Zahra | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur | |
+| M296BSX1478  | Andini Fitriyah Salsabilah | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur ||
+| M006BSY1698  | Fariz Miftakhul Hidayat | Machine Learning | Universitas Brawijaya | |
+| C614BSY3590  | Muhamad Royhan Fadhli | Cloud Computing | Universitas Nurdin Hamzah | [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/] |
+| C701BSY3241  | Muhamad Andreas Saputra | Cloud Computing | Universitas Primagraha | |
+| A296BSY2573  | Mahardika Virgo Wuryantoro  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur |  |
