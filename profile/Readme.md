@@ -1,6 +1,6 @@
 # COMETS.ID for Controlling Mental Health’s Students
 
-<img src="medit.gif" style="width: 500px; align: justify;">
+<img src="https://cdn.dribbble.com/users/3374930/screenshots/11835911/media/6d1868449dee1e3d323bc3fb485a0ab6.gif" style="width: 500px; align: justify;">
 
 # Themes
 <p align="justify">Human Healthcare and Living Wellbeings</p>
@@ -11,7 +11,9 @@
 
 <p align="justify">This capstone project was developed because there is an urgent need to address the growing mental health issue, especially among Indonesian university students and students in general. The severity of the situation is shown by the concerning increase in suicide cases, as shown by data from the National Information Center of Crime. With 971 cases documented between January and October of 2023, it is obvious that taking preventative action is necessary to stop this alarming trend. </p>
 
-#
+# Hi everyone!👋
+
+We Are From CH2-PS210, Whose Members Are:
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
