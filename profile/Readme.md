@@ -1,6 +1,6 @@
 # COMETS.ID for Controlling Mental Health’s Students
 
-<img src="medit.gif">
+<img src="LOGO 2.png">
 
 # Themes
 <p align="justify">Human Healthcare and Living Wellbeings</p>
