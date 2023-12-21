@@ -1,6 +1,6 @@
 # COMETS.ID for Controlling Mental Health’s Students
 
-<img src="medit.gif">
+<img src="medit.gif" style="width: 500px; align: justify;">
 
 # Themes
 <p align="justify">Human Healthcare and Living Wellbeings</p>
@@ -15,9 +15,9 @@
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
-| M296BSX1279  | Nabila Athifah Zahra | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur | |
-| M296BSX1478  | Andini Fitriyah Salsabilah | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur ||
-| M006BSY1698  | Fariz Miftakhul Hidayat | Machine Learning | Universitas Brawijaya | |
-| C614BSY3590  | Muhamad Royhan Fadhli | Cloud Computing | Universitas Nurdin Hamzah | [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/] |
-| C701BSY3241  | Muhamad Andreas Saputra | Cloud Computing | Universitas Primagraha | |
-| A296BSY2573  | Mahardika Virgo Wuryantoro  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur |  |
+| M296BSX1279  | Nabila Athifah Zahra | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur | <a href="https://www.linkedin.com/in/nabila-athifah-zahra/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+| M296BSX1478  | Andini Fitriyah Salsabilah | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur | <a href="https://www.linkedin.com/in/andinifitriyahsalsabilah/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+| M006BSY1698  | Fariz Miftakhul Hidayat | Machine Learning | Universitas Brawijaya | <a href="https://www.linkedin.com/in/fariz-miftakhul-hidayat-769b90252/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+| C614BSY3590  | Muhamad Royhan Fadhli | Cloud Computing | Universitas Nurdin Hamzah | <a href="https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+| C701BSY3241  | Muhamad Andreas Saputra | Cloud Computing | Universitas Primagraha |  <a href="http://www.linkedin.com/in/m-andreas-saputra-1a74b4222"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
+| A296BSY2573  | Mahardika Virgo Wuryantoro  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur |  <a href="https://www.linkedin.com/in/mahardika-virgo-wuryantoro-43330b249/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a>  |
