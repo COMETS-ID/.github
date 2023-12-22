@@ -2,7 +2,7 @@
 
 <img src="https://static.tildacdn.com/tild3835-6262-4532-b037-303634333637/levitation-2.gif">
 
-# Themes
+# Themes 🌐
 <p align="justify">Human Healthcare and Living Wellbeings</p>
 
 <p align="justify">What are the objectives and challenges we aim to address, and have there been any prior initiatives in this regard? Each year, a staggering 703,000 individuals succumb to suicide, while countless others grapple with suicidal thoughts. This tragic reality sends shockwaves through families, communities, and nations, leaving enduring scars on those left behind. Suicide transcends age, emerging as the fourth leading cause of death among 15–29-year-olds worldwide in 2019. This global crisis extends far beyond affluent nations, with over 77% of suicides occurring in low- and middle-income countries in 2019 [WHO 2023]. Based on data from the Pusat Informasi Kriminal Nasional Kepolisian RI, in the last 11 years (2012-2023) there were 2,112 suicides in Indonesia. As many as 985 cases or 46.63% of them were committed by teenagers. </p>
@@ -23,3 +23,86 @@ We Are From CH2-PS210, Whose Members Are:
 | C614BSY3590  | Muhamad Royhan Fadhli | Cloud Computing | Universitas Nurdin Hamzah | <a href="https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
 | C701BSY3241  | Muhamad Andreas Saputra | Cloud Computing | Universitas Primagraha |  <a href="http://www.linkedin.com/in/m-andreas-saputra-1a74b4222"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a> |
 | A296BSY2573  | Mahardika Virgo Wuryantoro  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur |  <a href="https://www.linkedin.com/in/mahardika-virgo-wuryantoro-43330b249/"><img src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" style="width: 70px;"></a>  |
+
+
+# Tools/IDE/Library/Resources ⚙️
+Our Tools, IDE, Library and Resources, based on our team's knowledge
+
+<table align="center">
+    <thead>
+        <tr>
+            <td width="20%">Role</td>
+            <td width="20%">Tools/IDE/Library</td>
+            <td width="60%">Resources</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">Machine Learning</td>
+            <td>Git/GitHub</td>
+            <td rowspan="2">Good Green Bean Coffee Dataset
+                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a good green coffee bean looks like.
+            </td>
+        </tr>
+        <tr>            
+            <td>Google Colaboratory</td>
+        </tr>
+        <tr>            
+            <td>Tensorflow</td>
+            <td rowspan="2">Bad Green Bean Coffee Dataset
+                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a bad green coffee bean looks like.
+            </td>
+        </tr>
+        <tr>            
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Mobile Development</td>
+            <td>Git/GitHub</td>
+            <td rowspan="5">-</td>
+        </tr>
+        <tr>            
+            <td>Android Studio</td>
+        </tr>
+        <tr>            
+            <td>Retrofit</td>
+        </tr>
+        <tr>            
+            <td>Zulu JDK</td>
+        </tr>
+        <tr>            
+            <td>Kotlin</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Cloud Computing</td>
+            <td>Git/GitHub</td>
+            <td rowspan="6">-</td>
+        </tr>
+        <tr>            
+            <td>Visual Studio Code</td>
+        </tr>
+        <tr>            
+            <td>Postman</td>
+        </tr>
+        <tr>            
+            <td>Google Cloud Platform</td>
+        </tr>
+        <tr>            
+            <td>ExpressJS Framework</td>
+        </tr>
+        <tr>            
+            <td>Flask Framework</td>
+        </tr>
+    </tbody>
+</table>
+
+# Preview App 📱
+
+# Mobile Development Resource 📱
+<p>see more: <a href="https://github.com/COMETS-ID/COMETS-FrontEnd">COMETS Mobile Development</a> </p>
+
+# Cloud Computing Resource ☁️
+<p>see more: <a href="https://github.com/COMETS-ID/BackEnd">COMETS Cloud Computing</a></p>
+
+# Machine Learning Resource 🧠
+<p>see more: <a href="https://github.com/COMETS-ID/DeployML">COMETS Machine Learning</a></p>
