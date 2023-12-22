@@ -110,4 +110,4 @@
 <p>see more: <a href="https://github.com/COMETS-ID/BackEnd">COMETS Cloud Computing</a></p>
 
 # Machine Learning Resource 🧠
-<p>see more: <a href="https://github.com/COMETS-ID/DeployML">COMETS Machine Learning</a></p>
+<p>see more: <a href="https://github.com/COMETS-ID/DeployML">COMETS Machine Learning API</a> and <a href="https://github.com/COMETS-ID/ML-for-build-model-finished">COMETS Machine Learning Model</a></p>
