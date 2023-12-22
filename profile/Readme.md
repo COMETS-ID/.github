@@ -40,8 +40,8 @@ Our Tools, IDE, Library and Resources, based on our team's knowledge
         <tr>
             <td rowspan="4">Machine Learning</td>
             <td>Git/GitHub</td>
-            <td rowspan="2">Good Green Bean Coffee Dataset
-                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a good green coffee bean looks like.
+            <td rowspan="2">Emotional and mental dataset 
+                Dataset obtained from Kaggle.com is used to train machines to know what a person's emotional or mental condition is
             </td>
         </tr>
         <tr>            
@@ -49,8 +49,7 @@ Our Tools, IDE, Library and Resources, based on our team's knowledge
         </tr>
         <tr>            
             <td>Tensorflow</td>
-            <td rowspan="2">Bad Green Bean Coffee Dataset
-                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a bad green coffee bean looks like.
+            <td rowspan="2">
             </td>
         </tr>
         <tr>            
