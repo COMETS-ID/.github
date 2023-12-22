@@ -3,7 +3,7 @@
 <img src="https://static.tildacdn.com/tild3835-6262-4532-b037-303634333637/levitation-2.gif">
 
 # Themes 🌐
-<p align="justify">Human Healthcare and Living Wellbeings</p>
+### Human Healthcare and Living Wellbeings
 
 <p align="justify">What are the objectives and challenges we aim to address, and have there been any prior initiatives in this regard? Each year, a staggering 703,000 individuals succumb to suicide, while countless others grapple with suicidal thoughts. This tragic reality sends shockwaves through families, communities, and nations, leaving enduring scars on those left behind. Suicide transcends age, emerging as the fourth leading cause of death among 15–29-year-olds worldwide in 2019. This global crisis extends far beyond affluent nations, with over 77% of suicides occurring in low- and middle-income countries in 2019 [WHO 2023]. Based on data from the Pusat Informasi Kriminal Nasional Kepolisian RI, in the last 11 years (2012-2023) there were 2,112 suicides in Indonesia. As many as 985 cases or 46.63% of them were committed by teenagers. </p>
 
@@ -13,7 +13,7 @@
 
 # Hi everyone!👋
 
-We Are From CH2-PS210, Whose Members Are:
+### We Are From CH2-PS210, Whose Members Are:
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
@@ -26,7 +26,7 @@ We Are From CH2-PS210, Whose Members Are:
 
 
 # Tools/IDE/Library/Resources ⚙️
-Our Tools, IDE, Library and Resources, based on our team's knowledge
+### Our Tools, IDE, Library and Resources, based on our team's knowledge
 
 <table align="center">
     <thead>
@@ -96,6 +96,12 @@ Our Tools, IDE, Library and Resources, based on our team's knowledge
 </table>
 
 # Preview App 📱
+<div>
+<img src="https://cdn.discordapp.com/attachments/1179738746795606018/1187747367567511613/103.png?ex=659802ef&is=65858def&hm=5306802caa1d76d661b2a4b8cd44d7dea50bb0524ae6894e19a782d24b80ac68&" width="22%">
+<img src="https://cdn.discordapp.com/attachments/1179738746795606018/1187747367949172807/104.png?ex=659802ef&is=65858def&hm=7c5fcbf1f37a1e3c00eeafa9e86e322d9b80e77a164b6e4116d5a08b54d8861d&" width="22%">
+<img src="https://cdn.discordapp.com/attachments/1179738746795606018/1187747366938349659/102.png?ex=659802ef&is=65858def&hm=8fb328c21c2d189a982903f3107e3103cae114439be9e49e50857f739a9f80e0&" width="22%">
+<img src="https://cdn.discordapp.com/attachments/1179738746795606018/1187747366577635419/101.png?ex=659802ef&is=65858def&hm=f78dd54573a0ef82c17cf88f75e414f7400f9d8dc15070eee066f0517d543bb6&" width="22%">
+</div>
 
 # Mobile Development Resource 📱
 <p>see more: <a href="https://github.com/COMETS-ID/COMETS-FrontEnd">COMETS Mobile Development</a> </p>
